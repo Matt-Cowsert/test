@@ -62,9 +62,9 @@ What needs to be true when we deliver this capability for it to be meaningful? D
 ### Type of Request
 **Select the option that best describes this request.** Maintainers may reclassify during triage.
 
-- [ ] **Standardization** - Data is already available but dispersed across providers
-- [ ] **Enhancement** - Refinement or extension of an existing concept or capability
-- [ ] **Net New** - Breaking new ground (e.g., net new datasets or capabilities)
+- [ ] **Standardization** - Data already exists across data generators but is not yet normalized in FOCUS
+- [ ] **Enhancement** - Refinement or extension of an existing FOCUS column, metric, or capability
+- [ ] **Net New** - A concept not yet represented in FOCUS or widely available from data generators
 - [ ] **Enablement/Supporting Content** - Non-normative items like appendix explanations, examples, or supporting documentation
 - [ ] **Tech Debt** - Addressing technical debt or maintenance items *(Note: For Tech Debt items, feel free to liberally delete sections of this template that aren't relevant)*
 
